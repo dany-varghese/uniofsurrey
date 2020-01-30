@@ -1,1 +1,2 @@
-# uniofsurrey
+#MACHINE LEARNING AND DATA MINING - 2019/0
+Module code: COMM055
